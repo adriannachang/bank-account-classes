@@ -17,3 +17,5 @@ Joint Owner Name (char size 20)
 Owner SSN (char size 12)
 Joint Owner SSN (char size 12)
 Account Balance (double)
+
+CHALLENGES FACED:
