@@ -19,3 +19,7 @@ Joint Owner SSN (char size 12)
 Account Balance (double)
 
 CHALLENGES FACED:
+This was our first project dealing with classes in ICS4U; I struggled with the concept initially, especially in terms of deriving classes from other classes. Although it took me a little while to sort out dealing with classes and having functions inside classes, this program was definitely a great learning experience for me.
+
+MOST PROUD OF:
+Making use of reading/writing information to binary files to increase the functionality of the program. Although it wasn't required for the assignment, I modified the program so that the user could alter the program's banking information and have it all saved to a binary file.
